@@ -1,1 +1,2 @@
 # mooc_c_basic
+这个repository是北京大学李戈老师的计算导论与c语言基础课程的课后习题，course与中国大学mooc上均有。习题略有不同。这里以Coursera为准。
